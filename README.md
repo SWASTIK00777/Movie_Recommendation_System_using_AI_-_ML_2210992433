@@ -1,18 +1,13 @@
-# Movie Recommendation System using AI & ML
+# Project Title
+Movie Recommendation System using AI & ML
 
-## Type
+# Type
 Research Paper
 
-## Team Member 1
-### Name
-Swastik Tara
+# Team Member 1
+Name: Swastik Tara  
+Roll No.: 2210992433
 
-### Roll No.
-2210992433
-
-## Team Member 2
-### Name
-Sanisth Tara
-
-### Roll No.
-2210992247
+# Team Member 2
+Name: Sanisth Tara  
+Roll No.: 2210992247
